@@ -25,7 +25,7 @@ Everything bundled into a downloadable ZIP. Unzip, run `npm install`, and Claude
 
 ## Live Demo
 
-**[mcpforge.vercel.app](https://mcpforge.vercel.app)**
+**[mcpforge.vercel.app](https://mcp-forge-pi.vercel.app/)**
 
 ---
 
